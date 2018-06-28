@@ -1,0 +1,10 @@
+node_modules/
+plugins/
+platforms/
+.nyc_output/
+coverage/
+www/*
+!www/.gitkeep
+npm-debug.log
+.DS_Store
+.tmp
