@@ -15,14 +15,9 @@
     "todomvc",
     "webpack"
   ],
-  "homepage": "https://github.com/unimonkiez/react-cordova-boilerplate#readme",
+  "homepage": "https://github.com/msdewitt/matsGame",
   "bugs": {
-    "url": "https://github.com/unimonkiez/react-cordova-boilerplate/issues"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/unimonkiez/react-cordova-boilerplate.git"
+    "url": "https://github.com/msdewitt/matsGame/issues"
   },
   "scripts": {
     "build": "node ./bin/build.js",
